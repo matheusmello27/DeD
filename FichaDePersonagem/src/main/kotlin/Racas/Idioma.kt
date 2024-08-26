@@ -1,0 +1,5 @@
+package Racas
+
+enum class Idioma {
+    COMUM, ANAO, DRACONICO, SUBTERRANEO, ELFICO, GNOMICO, HALFLING, ORC
+}
